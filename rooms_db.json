@@ -1,0 +1,41 @@
+[
+  [
+    "general",
+    {
+      "id": "general",
+      "name": "Общий чат",
+      "description": "Главный общий канал для всех пользователей",
+      "avatar": "",
+      "channelType": "text",
+      "allowedTags": [],
+      "tagPermissions": {},
+      "adminUuid": null,
+      "members": [
+        "sfkjpyna",
+        "bgfv9unb"
+      ]
+    }
+  ],
+  [
+    "visitors_lobby",
+    {
+      "id": "visitors_lobby",
+      "name": "Лобби посетителей",
+      "description": "Специальный канал для общения посетителей",
+      "avatar": "",
+      "channelType": "text",
+      "allowedTags": [
+        "Админ",
+        "HostAdmin (№1)",
+        "Участник",
+        "Посетитель"
+      ],
+      "tagPermissions": {},
+      "adminUuid": null,
+      "members": [
+        "sfkjpyna",
+        "bgfv9unb"
+      ]
+    }
+  ]
+]

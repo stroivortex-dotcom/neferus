@@ -1,0 +1,34 @@
+[
+  [
+    "sfkjpyna",
+    {
+      "uuid": "sfkjpyna",
+      "name": "HostAdmin (№1)",
+      "tag": "Админ",
+      "isAdmin": true,
+      "bans": {
+        "text": false,
+        "images": false,
+        "links": false,
+        "mic": false,
+        "listen": false
+      }
+    }
+  ],
+  [
+    "bgfv9unb",
+    {
+      "uuid": "bgfv9unb",
+      "name": "User_bgfv",
+      "tag": "Участник",
+      "isAdmin": false,
+      "bans": {
+        "text": false,
+        "images": false,
+        "links": false,
+        "mic": false,
+        "listen": false
+      }
+    }
+  ]
+]
